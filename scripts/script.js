@@ -69,4 +69,16 @@ while (i <= 56) {
 for (j=1; j<10; j++)
 document.write("<p>"+i+"*"+j+" = "+(i*j)+"</p>");*/
 
+//Задача 7
+/*let n = 1000;
+let num = 0;
+
+while (n > 50) {
+    num++;
+    n /= 2;
+};
+
+console.log(n);
+console.log(num);
+*/
 
