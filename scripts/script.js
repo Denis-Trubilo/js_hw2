@@ -123,3 +123,15 @@ for(let i = 0; i < arr10.length; i++) {
 }
 console.log(sum);*/
 
+//Задача 10
+
+/*let arr11 = [1,8,0,13,76,8,7,0,22,0,2,3,2];
+let sum = 0;
+let index1 = arr11.indexOf(0);
+let index2 = arr11.lastIndexOf(0);
+
+for(let i = index1 + 1; i < index2; i++) {
+    sum += arr11[i];
+}
+
+console.log(sum);*/
